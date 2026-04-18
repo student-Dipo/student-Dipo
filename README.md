@@ -1,4 +1,6 @@
 ## Hi there 👋
+This is my first Git repository.
+Author - Dipo
 
 <!--
 **student-Dipo/student-Dipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
